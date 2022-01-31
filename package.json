@@ -1,0 +1,19 @@
+{
+  "name": "js_scoring_algorithms",
+  "version": "1.0.0",
+  "description": "Examples of scoring algorithms of cognitive tasks in JavaScript",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpronk/js_scoring_algorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpronk/js_scoring_algorithms/issues"
+  },
+  "homepage": "https://github.com/tpronk/js_scoring_algorithms#readme"
+}
